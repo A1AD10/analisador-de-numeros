@@ -26,3 +26,15 @@ footer {
     text-align: center;
     font-style: italic;
 }
+
+@media(max-width: 425px){
+    h1 {
+        font-size: 1em;
+    }
+    section {
+        width: 250px;
+    }
+    p {
+        font-size: 14px;
+    }
+}
